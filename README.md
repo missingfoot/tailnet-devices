@@ -2,6 +2,8 @@
 
 A tiny KDE tray app for Tailscale.
 
+![Tailscale Devices window](docs/screenshot.png)
+
 - **Tray icon** shows at a glance whether Tailscale is up: a shield
   (`network-vpn-symbolic`) when connected, a shield with a red ✕
   (`security-low-symbolic`) when stopped, logged out, or `tailscaled` isn't
