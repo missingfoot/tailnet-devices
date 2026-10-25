@@ -33,3 +33,7 @@ Devices"), and an autostart entry that starts it in the tray at login
 
 If the icon lands in the tray's hidden overflow, set it to **Always shown**
 under Configure System Tray → Entries.
+
+## License
+
+MIT — see [LICENSE](LICENSE).
