@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Name=Tailscale Devices
+Comment=List Tailscale devices and open the admin dashboard
+Exec=tailnet-devices
+Icon=network-vpn
+Categories=Network;Utility;
